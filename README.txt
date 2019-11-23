@@ -1,6 +1,6 @@
 After cloning the reposetry Tasks ...
 
-To run the application on docker envieroment ,download maven-jdk image from dockerhub ----> https://hub.docker.com/_/maven?tab=tags
+To run the application on docker envieroment, install docker then download maven-jdk image from dockerhub ----> https://hub.docker.com/_/maven?tab=tags
 I used this 'maven:3.6.2-jdk-14' and commcand ----> [ docker pull maven:3.6.2-jdk-14 ]
 
 To Run Twitter-Application;
